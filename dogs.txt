@@ -1,0 +1,8 @@
+Bulldog,Milo,0,https://i.pinimg.com/564x/6b/d5/08/6bd5086f53dd9f4ea4101e25b90e3ee6.jpg
+Samoyed,Daisy,1,https://www.akc.org/wp-content/uploads/2017/11/Samoyed-standing-in-the-forest.jpg
+Pomeranian,Pippa,1,https://www.purina.co.uk/sites/default/files/2021-02/BREED%20Hero_0095_pomeranian.jpg
+Yorkshire,Lola,0,https://dogtime.com/assets/uploads/gallery/yorkshireterrier-dog-breed-pictures/1-face.jpg
+Borzoi,Cleo,3,https://upload.wikimedia.org/wikipedia/commons/d/de/Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg
+Shiba Inu,Pochi,1,http://cdn.shopify.com/s/files/1/0535/2738/0144/articles/shutterstock_518591449.jpg?v=1678219124
+Pug,Charlie,0,https://i.pinimg.com/564x/6b/d5/08/6bd5086f53dd9f4ea4101e25b90e3ee6.jpg
+Bichon,Jack,10,https://assets.orvis.com/is/image/orvisprd/AdobeStock_78620179?wid=1023&src=is($object$:7-3)
